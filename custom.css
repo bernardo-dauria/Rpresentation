@@ -1,0 +1,18 @@
+.special-del p del {
+  color: red;
+  display: block;
+  text-align: center;
+}
+
+.exclaim .reveal .state-background {
+  background: black;
+} 
+
+.exclaim .reveal div {
+  color: white;
+  font-family: 'Lacquer';
+}
+
+.exclaim .reveal code {
+  color: red;
+}
