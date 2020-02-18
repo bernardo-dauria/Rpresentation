@@ -270,10 +270,10 @@ raw HTML can be used to get special font effects, such as:
 <small>Smaller font sentence.</small>
 - `<span style="font-weight: bold;">Pay attention to this!</span>`
 
-<span style="font-weight: bold;">Pay attention to this!</span>
+<span style="font-weight: bold;">Pay attention:</span>
 
-However mixing *markdown* with *html* code may lead to non-expected results.
-Try it yourself
+Mixing *markdown* with *html* code may lead to non-expected results -
+Try it yourself!
 
 Slide formatted with External CSS
 ========================================================
