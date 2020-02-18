@@ -2,10 +2,10 @@ R Presentations
 =========================
 author: Bernardo D'Auria
 date: February 19th, 2020
-font-import: https://fonts.googleapis.com/css?family=Lato
+css: custom.css
+font-import: https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap
 font-import: https://fonts.googleapis.com/css?family=Lacquer
 font-import: https://fonts.googleapis.com/css?family=Risque
-css: custom.css
 <!-- font-family: 'Risque' -->
 
 
