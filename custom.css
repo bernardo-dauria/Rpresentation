@@ -17,13 +17,12 @@
   background: black;
 } 
 
-.exclaim .reveal h1,
-.exclaim .reveal h2,
-.exclaim .reveal p {
+.exclaim .reveal div {
   color: white;
   font-family: 'Lacquer';
 }
 
 .exclaim .reveal code {
   color: red;
+  font-family: 'Lacquer';
 }

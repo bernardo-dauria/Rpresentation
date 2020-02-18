@@ -2,8 +2,8 @@ R Presentations
 =========================
 author: Bernardo D'Auria
 date: February 19th, 2020
-font-import: ./font-Risque.css
-font-family: Risque 
+font-import: https://fonts.googleapis.com/css?family=Risque
+font-family: 'Risque' 
 css: custom.css
 <!-- font-family: 'Risque' -->
 
