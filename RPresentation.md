@@ -144,7 +144,6 @@ with
 
 .exclaim .reveal code {
   color: red;
-  font-family: 'Lacquer';
 }
 ```
 
