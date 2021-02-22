@@ -25,3 +25,7 @@
 .exclaim .reveal code {
   color: red;
 }
+
+.reveal em em {
+  font-style: normal;
+}

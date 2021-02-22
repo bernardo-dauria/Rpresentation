@@ -1,9 +1,9 @@
 R Presentations
 =========================
 author: Bernardo D'Auria
-date: February 19th, 2020
-font-import: https://fonts.googleapis.com/css?family=Risque
-font-family: 'Risque' 
+date: February 14th, 2021
+font-import: https://fonts.googleapis.com/css?family=Caveat
+font-family: 'Caveat' 
 css: custom.css
 <!-- font-family: 'Risque' -->
 
@@ -14,11 +14,15 @@ About RPresentation
 
 *RPresentation* is a special Markdown dialect used to create HTML presentations with **RStudio**.
 
-The fale is saved with extension *.Rpres* and is compiled using 
+The file is saved with extension *.Rpres* and is compiled using 
 *RMarkdown* and *knitr* packages. 
 
-It generates two files *.md* and *.html*. <br>
+It generates two files *.md* and *.html*.  
 The latter may be open in any *web browser*.
+
+<em>
+*RPresentation* requires the *knitr* package (version 1.2 or higher)
+</em>
 
 Basic 
 =========================
@@ -87,13 +91,13 @@ type: sub-section
 
 This is a *sub-section* slide
 
-Promt slide 
+Prompt slide 
 =========================
 type: prompt 
 incremental: false
 transition: zoom
 
-This is a *promt* slide with 
+This is a *prompt* slide with 
 - **incremental** set to *false*, the default value
 - **transition** set to *zoom*.
 
@@ -233,12 +237,10 @@ Slide with Image
 ========================================================
 
 ```markdown
- ![angry-birds](https://goo.gl/df18Vv)
+ ![Persian-cat-sleeping](https://cdn.britannica.com/s:800x1000/24/212324-050-076731DA/Persian-cat-sleeping.jpg)
 ```
 
-[//]: # (orignal url: https://steemitimages.com/DQmQgpELj7e4BQnRTEHN3REcza4zfv58h8y8GrzVjUh17Fz/94740_017.jpg)
-
-![angry-birds](https://goo.gl/df18Vv)
+![Persian-cat-sleeping](https://cdn.britannica.com/s:800x1000/24/212324-050-076731DA/Persian-cat-sleeping.jpg)
 
 Slide with Two Columns
 ========================================================
