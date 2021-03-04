@@ -1,11 +1,23 @@
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Caveat&family=Lacquer&family=Risque&display=swap" rel="stylesheet">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+</style>
+
 R Presentations
 =========================
 author: Bernardo D'Auria
 date: February 14th, 2021
-font-import: https://fonts.googleapis.com/css?family=Caveat
-font-family: 'Caveat' 
 css: custom.css
-<!-- font-family: 'Risque' -->
+font-family: 'Caveat'
+
+<!-- 
+font-family: 'Caveat'
+font-family: 'Lacquer'
+font-family: 'Risque'
+font-family: 'Fascinate'
+-->
 
 
 
@@ -128,8 +140,10 @@ This is an example of *numbered* list:
 
 Slide without title and different fonts
 =========================
+css: custom.css
 title: false
 type: exclaim
+
 
 This slide has
 - **title** set to *false* 
@@ -305,6 +319,8 @@ Try it yourself!
 Slide formatted with External CSS
 ========================================================
 class: special-del
+css: fonts-Lacquer.css
+css: custom.css
 
 Including in the title slide the command:
     
