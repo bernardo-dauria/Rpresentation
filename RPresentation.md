@@ -319,10 +319,8 @@ Try it yourself!
 Slide formatted with External CSS
 ========================================================
 class: special-del
-css: fonts-Lacquer.css
-css: custom.css
 
-Including in the title slide the command:
+Including in the **title slide** the command:
     
     css: custom.css
     
